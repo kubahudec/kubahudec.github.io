@@ -439,7 +439,7 @@ a:hover {
 }
 a {
   font-weight: 600;
-  color: #47b475;
+  color: #0081c5;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -462,7 +462,7 @@ a {
   opacity: 1;
 }
 a:hover {
-  color: #398f5d;
+  color: #0050c5;
   text-decoration: none;
 }
 .label {
@@ -559,6 +559,12 @@ ul.lead li {
 }
 .bg-dark {
   background: #292929;
+}
+.bg-darker {
+  background: #e6e6e6;
+}
+.bg-darkerer {
+  background: #c6c6c6;
 }
 .color-body {
   color: #666;
@@ -5078,7 +5084,7 @@ footer.bg-dark a {
   }
   .mb-s-40 {
     margin-bottom: 40px;
-  } 
+  }
 }
   .mt-s-0 {
     margin-top: 0 !important;
